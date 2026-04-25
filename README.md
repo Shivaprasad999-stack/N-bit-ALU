@@ -85,6 +85,7 @@ a >> 1   // Shift Right (divide by 2)
 (a > b)   // Greater Than
 (a < b)   // Less Than
 ```
+<img width="1584" height="870" alt="Screenshot 2026-04-25 155015" src="https://github.com/user-attachments/assets/150133c8-4ecd-43de-a06a-27225fb72cdf" />
 
 Output:
 
