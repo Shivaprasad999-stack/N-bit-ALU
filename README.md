@@ -110,6 +110,14 @@ Output:
 time=0 a=0101 b=0011 sel=0010 result=1000
 time=1 a=1110 b=0001 sel=0011 result=1101
 ```
+Simulation
+<img width="1628" height="939" alt="Screenshot 2026-04-25 155120" src="https://github.com/user-attachments/assets/28b6fd59-1dde-4607-8b9f-b1cf0b3d5009" />
+
+
+
+
+
+<img width="1615" height="888" alt="Screenshot 2026-04-25 154944" src="https://github.com/user-attachments/assets/7b8399ea-e03b-47e4-8dd5-7045797d401d" />
 
 ---
 
